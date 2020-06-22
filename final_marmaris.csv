@@ -1,0 +1,441 @@
+"","Food Name","Detail","Price","Category","Restaurant Name","Address","District","calories"
+"181","Coca-Cola (33 cl.)","","4,50 TL","Ýçecekler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",149
+"182","Coca-Cola Þekersiz (33 cl.)","","4,50 TL","Ýçecekler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",1
+"183","Fanta (33 cl.)","","4,50 TL","Ýçecekler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",157
+"184","Sprite (33 cl.)","","4,50 TL","Ýçecekler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",130
+"185","Þalgam Suyu (33 cl.)","","4,00 TL","Ýçecekler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",16
+"186","Ayran (30 cl.)","","3,50 TL","Ýçecekler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",111
+"187","Coca-Cola (1 L.)","","7,50 TL","Ýçecekler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",450
+"331","Coca-Cola (33 cl.)","","4,00 TL","Ýçecekler","Beþ Kardeþler"," Marmaris ","Merkez",149
+"332","Fanta (33 cl.)","","4,00 TL","Ýçecekler","Beþ Kardeþler"," Marmaris ","Merkez",157
+"333","Sprite (33 cl.)","","4,00 TL","Ýçecekler","Beþ Kardeþler"," Marmaris ","Merkez",130
+"334","Lipton Ice Tea (33 cl.)","","4,00 TL","Ýçecekler","Beþ Kardeþler"," Marmaris ","Merkez",99
+"335","Þalgam Suyu (33 cl.)","","5,00 TL","Ýçecekler","Beþ Kardeþler"," Marmaris ","Merkez",16
+"336","Ayran (30 cl.)","","3,00 TL","Ýçecekler","Beþ Kardeþler"," Marmaris ","Merkez",111
+"337","Ayran (20 cl.)","","2,00 TL","Ýçecekler","Beþ Kardeþler"," Marmaris ","Merkez",67
+"338","Su","","1,50 TL","Ýçecekler","Beþ Kardeþler"," Marmaris ","Merkez",0
+"339","Coca-Cola (1 L.)","","6,00 TL","Ýçecekler","Beþ Kardeþler"," Marmaris ","Merkez",450
+"397","Coca-Cola (33 cl.)","","4,00 TL","Ýçecekler","Big Chef"," Marmaris ","Merkez",149
+"398","Coca-Cola Light (33 cl.)","","4,00 TL","Ýçecekler","Big Chef"," Marmaris ","Merkez",1
+"399","Coca-Cola Þekersiz (33 cl.)","","4,00 TL","Ýçecekler","Big Chef"," Marmaris ","Merkez",1
+"400","Fanta (33 cl.)","","4,00 TL","Ýçecekler","Big Chef"," Marmaris ","Merkez",157
+"401","Sprite (33 cl.)","","4,00 TL","Ýçecekler","Big Chef"," Marmaris ","Merkez",130
+"402","Þalgam Suyu (33 cl.)","","3,00 TL","Ýçecekler","Big Chef"," Marmaris ","Merkez",16
+"403","Ayran (30 cl.)","","3,00 TL","Ýçecekler","Big Chef"," Marmaris ","Merkez",111
+"404","Ayran (20 cl.)","","2,00 TL","Ýçecekler","Big Chef"," Marmaris ","Merkez",67
+"405","Soda (20 cl.)","","2,00 TL","Ýçecekler","Big Chef"," Marmaris ","Merkez",1
+"406","Su (50 cl.)","","2,00 TL","Ýçecekler","Big Chef"," Marmaris ","Merkez",0
+"550","Coca-Cola (33 cl.)","","6,00 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",149
+"551","Coca-Cola Light (33 cl.)","","6,00 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",1
+"552","Coca-Cola Þekersiz (33 cl.)","","6,00 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",1
+"553","Fanta (33 cl.)","","6,00 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",157
+"554","Sprite (33 cl.)","","6,00 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",130
+"555","Fuse Tea (33 cl.)","","6,00 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",96
+"556","Þalgam Suyu (33 cl.)","","5,00 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",16
+"557","Ayran (20 cl.)","","2,50 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",67
+"558","Limonlu Soda","","3,50 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",75
+"559","Soda","","4,00 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",0
+"560","Su","","2,50 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",0
+"561","Coca-Cola (1 L.)","","1,50 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",450
+"562","Coca-Cola Light (1 L.)","","8,00 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",1
+"563","Coca-Cola Þekersiz (1 L.)","","8,00 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",1
+"564","Fanta (1 L.)","","8,00 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",475
+"565","Sprite (1 L.)","","8,00 TL","Ýçecekler","Ciðerci Müslüm"," Marmaris ","Merkez",395
+"1254","Coca-Cola (33 cl.)","","5,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",149
+"1255","Coca-Cola Light (33 cl.)","","5,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",1
+"1256","Coca-Cola Þekersiz (33 cl.)","","5,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",1
+"1257","Fanta (33 cl.)","","5,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",157
+"1258","Spirte (33 cl.)","","5,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",130
+"1259","Pepsi (33 cl.)","","5,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",142
+"1260","Pepsi Light (33 cl.)","","5,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",0
+"1261","Pepsi Max (33 cl.)","","5,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",2
+"1262","Yedigün (33 cl.)","","5,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",152
+"1263","7UP (33 cl.)","","5,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",145
+"1264","Lipton Ice Tea (33 cl.)","","5,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",99
+"1265","Ayran (30 cl.)","","3,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",111
+"1266","Ayran (20 cl.)","","2,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",67
+"1267","Soda (20 cl.)","","3,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",1
+"1268","Su (33 cl.)","","2,00 TL","Ýçecekler","Happy Face"," Marmaris ","Siteler",0
+"1393","Coca-Cola (33 cl.)","","5,00 TL","Ýçecekler","Hatay Ateþi"," Marmaris ","Armutalan",149
+"1394","Coca-Cola Light (33 cl.)","","5,00 TL","Ýçecekler","Hatay Ateþi"," Marmaris ","Armutalan",1
+"1395","Coca-Cola Þekersiz (33 cl.)","","5,00 TL","Ýçecekler","Hatay Ateþi"," Marmaris ","Armutalan",1
+"1396","Fanta (33 cl.)","","5,00 TL","Ýçecekler","Hatay Ateþi"," Marmaris ","Armutalan",157
+"1397","Sprite (33 cl.)","","5,00 TL","Ýçecekler","Hatay Ateþi"," Marmaris ","Armutalan",130
+"1398","Þalgam Suyu (33 cl.)","","4,00 TL","Ýçecekler","Hatay Ateþi"," Marmaris ","Armutalan",16
+"1399","Ayran (30 cl.)","","3,00 TL","Ýçecekler","Hatay Ateþi"," Marmaris ","Armutalan",111
+"1400","Ayran (20 cl.)","","2,00 TL","Ýçecekler","Hatay Ateþi"," Marmaris ","Armutalan",67
+"1401","Su","","2,00 TL","Ýçecekler","Hatay Ateþi"," Marmaris ","Armutalan",0
+"1425","Coca-Cola (30 cl.)","","6,00 TL"," Ýçecekler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",135
+"1426","Coca-Cola Light (30 cl.)","","6,00 TL"," Ýçecekler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",1
+"1427","Coca-Cola Þekersiz (30 cl.)","","6,00 TL"," Ýçecekler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",1
+"1428","Fanta (30 cl.)","","6,00 TL"," Ýçecekler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",142
+"1429","Sprite (30 cl.)","","6,00 TL"," Ýçecekler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",118
+"1430","Lipton Ice Tea (33 cl.)","","6,00 TL"," Ýçecekler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",99
+"1431","Eker Ayran (20 cl.)","","4,00 TL"," Ýçecekler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",67
+"1432","Soda","","4,00 TL"," Ýçecekler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",0
+"1433","Su","","2,00 TL"," Ýçecekler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",0
+"1560","Pepsi (33 cl.)","","6,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",142
+"1561","Pepsi Light (33 cl.)","","6,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",0
+"1562","Pepsi Max (33 cl.)","","6,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",2
+"1563","Yedigün (33 cl.)","","6,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",152
+"1564","7UP (33 cl.)","","6,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",145
+"1565","Lipton Ice Tea (33 cl.)","","6,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",99
+"1566","Ayran (30 cl.)","","5,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",111
+"1567","Þalgam Suyu (30 cl.)","","7,00 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",0
+"1568","Soda (20 cl.)","","5,00 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",1
+"1569","Su (33 cl.)","","2,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",0
+"1570","Taze Sýkma Portakal Suyu (33 cl.)","","9,00 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",0
+"1571","Limonata (33 cl.)","Ev yapýmý","9,00 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",120
+"1572","Pepsi (1 L.)","","9,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",430
+"1573","Pepsi Light (1 L.)","","9,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",0
+"1574","Pepsi Max (1 L.)","","9,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",2
+"1575","Yedigün (1 L.)","","9,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",460
+"1576","7UP (1 L.)","","9,50 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",440
+"1577","Pepsi (2,5 L.)","","12,00 TL","Ýçecekler","Kýrçiçeði"," Marmaris ","Merkez",1075
+"1688","Coca-Cola (33 cl.)","","5,00 TL","Ýçecekler","Marmaris Kebap"," Marmaris ","Siteler",149
+"1689","Pepsi (33 cl.)","","5,00 TL","Ýçecekler","Marmaris Kebap"," Marmaris ","Siteler",142
+"1690","Fanta (33 cl.)","","5,00 TL","Ýçecekler","Marmaris Kebap"," Marmaris ","Siteler",157
+"1691","Sprite (33 cl.)","","5,00 TL","Ýçecekler","Marmaris Kebap"," Marmaris ","Siteler",130
+"1692","Lipton Ice Tea (33 cl.)","","5,00 TL","Ýçecekler","Marmaris Kebap"," Marmaris ","Siteler",99
+"1693","Þalgam Suyu (33 cl.)","","4,00 TL","Ýçecekler","Marmaris Kebap"," Marmaris ","Siteler",16
+"1694","Sütaþ Ayran (29,5 cl.)","","3,00 TL","Ýçecekler","Marmaris Kebap"," Marmaris ","Siteler",96
+"1695","Su (50 cl.)","","2,00 TL","Ýçecekler","Marmaris Kebap"," Marmaris ","Siteler",0
+"161","Izgara Köfte","Salata, közlenmiþ biber, közlenmiþ domates, pilav","24,00 TL"," Kebaplar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",183
+"162","Kuzu Þiþ Kebap","Salata, közlenmiþ biber, közlenmiþ domates, pilav","32,00 TL"," Kebaplar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",700
+"163","Karýþýk Kebap","Salata, közlenmiþ biber, közlenmiþ domates, pilav","30,00 TL"," Kebaplar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",708
+"164","Tavuk Þiþ Kebap","Kuzu þiþ kebap, tavuk kanat kebap, ciðer þiþ kebap, tavuk þiþ kebap, Adana kebap. Salata, közlenmiþ biber, közlenmiþ domates, pilav","40,00 TL"," Kebaplar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",703
+"165","Tavuk Kanat Kebap","Salata, közlenmiþ biber, közlenmiþ domates, pilav","18,00 TL"," Kebaplar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",556
+"166","Beyti Sarma Kebap","Salata, közlenmiþ biber, közlenmiþ domates, pilav","20,00 TL"," Kebaplar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",566
+"167","Domatesli Kebap","Salata, közlenmiþ biber, közlenmiþ domates, pilav","35,00 TL"," Kebaplar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",847
+"168","Patlýcanlý Kebap","Salata, közlenmiþ biber, közlenmiþ domates, pilav","30,00 TL"," Kebaplar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",634
+"169","Adana Dürüm","Soðan, domates, maydanoz","14,00 TL","Dürümler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",325
+"170","Urfa Dürüm","Soðan, domates, maydanoz","14,00 TL","Dürümler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",335
+"171","Köfte Dürüm","Soðan, domates, maydanoz","15,00 TL","Dürümler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",420
+"172","Kuzu Þiþ Dürüm","Soðan, domates, maydanoz","15,00 TL","Dürümler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",497
+"173","Tavuk Þiþ Dürüm","Soðan, domates, maydanoz","17,00 TL","Dürümler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",397
+"174","Patates Kýzartmasý","","10,00 TL","Yan Ürünler","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",250
+"175","Çoban Salata","","10,00 TL","Salatalar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",115
+"176","Ton Balýklý Salata","","15,00 TL","Salatalar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",320
+"177","Kaþýk Salata","","10,00 TL","Salatalar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",90
+"178","Yeþil Salata","","10,00 TL","Salatalar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",77
+"179","Peynirli Salata","","12,00 TL","Salatalar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",121
+"180","Gavurdaðý Salata","","10,00 TL","Salatalar","Bahtiyar Ocakbaþý"," Marmaris ","Armutalan",114
+"293","Ezogelin Çorbasý","","7,00 TL"," Çorbalar","Beþ Kardeþler"," Marmaris ","Merkez",94
+"294","Ýþkembe Çorbasý","","15,00 TL"," Çorbalar","Beþ Kardeþler"," Marmaris ","Merkez",139
+"295","Kelle Paça Çorbasý","","15,00 TL"," Çorbalar","Beþ Kardeþler"," Marmaris ","Merkez",325
+"296","Mercimek Çorbasý","","7,00 TL"," Çorbalar","Beþ Kardeþler"," Marmaris ","Merkez",137
+"297","Adana Kebap","Pilav, salata, közlenmiþ domates, közlenmiþ biber ile","23,00 TL"," Kebaplar","Beþ Kardeþler"," Marmaris ","Merkez",546
+"298","Urfa Kebap","Pilav, salata, közlenmiþ domates, közlenmiþ biber ile","23,00 TL"," Kebaplar","Beþ Kardeþler"," Marmaris ","Merkez",450
+"299","Patlýcanlý Kebap","Pilav, salata, közlenmiþ domates, közlenmiþ biber ile","25,00 TL"," Kebaplar","Beþ Kardeþler"," Marmaris ","Merkez",635
+"300","Kaþarlý Beyti Sarma Kebap","Pilav, salata, közlenmiþ domates, közlenmiþ biber ile","27,00 TL"," Kebaplar","Beþ Kardeþler"," Marmaris ","Merkez",571
+"301","Kuzu Þiþ","Pilav, salata, közlenmiþ domates, közlenmiþ biber ile","24,00 TL"," Izgaralar","Beþ Kardeþler"," Marmaris ","Merkez",700
+"302","Muðla Köfte","Salata, közlenmiþ domates, közlenmiþ biber ile","19,00 TL"," Izgaralar","Beþ Kardeþler"," Marmaris ","Merkez",513
+"303","Tavuk Kanat","Pilav, salata, közlenmiþ domates, közlenmiþ biber ile","18,00 TL"," Izgaralar","Beþ Kardeþler"," Marmaris ","Merkez",556
+"304","Tavuk Þiþ","Pilav, salata, közlenmiþ domates, közlenmiþ biber ile","18,00 TL"," Izgaralar","Beþ Kardeþler"," Marmaris ","Merkez",703
+"305","Kuzu Kelle","Söðüþ domates, soðan piyazý, 2 adet lavaþ ekmeði ile","40,00 TL"," Izgaralar","Beþ Kardeþler"," Marmaris ","Merkez",1500
+"306","Ekmek Arasý Et Tantuni","Domates, maydanoz, isteðe göre soðan","14,00 TL"," Et Tantuniler","Beþ Kardeþler"," Marmaris ","Merkez",585
+"307","Et Tantuni Dürüm","Domates, maydanoz, isteðe göre soðan","14,00 TL"," Et Tantuniler","Beþ Kardeþler"," Marmaris ","Merkez",509
+"308","Yoðurtlu Et Tantuni","Domates, maydanoz, isteðe göre soðan","16,00 TL"," Et Tantuniler","Beþ Kardeþler"," Marmaris ","Merkez",648
+"309","Ekmek Arasý Tavuk Tantuni","Domates, maydanoz, isteðe göre soðan","9,00 TL"," Tavuk Tantuniler","Beþ Kardeþler"," Marmaris ","Merkez",255
+"310","Tavuk Tantuni Dürüm","Domates, maydanoz, isteðe göre soðan","9,00 TL"," Tavuk Tantuniler","Beþ Kardeþler"," Marmaris ","Merkez",250
+"311","Yoðurtlu Tavuk Tantuni","Domates, maydanoz, isteðe göre soðan","13,00 TL"," Tavuk Tantuniler","Beþ Kardeþler"," Marmaris ","Merkez",574
+"312","Lahmacun","","6,00 TL","Fýrýn Ürünleri","Beþ Kardeþler"," Marmaris ","Merkez",327
+"313","Kaþarlý Pide","","12,00 TL","Fýrýn Ürünleri","Beþ Kardeþler"," Marmaris ","Merkez",516
+"314","Kaþarlý Domatesli Pide","","14,00 TL","Fýrýn Ürünleri","Beþ Kardeþler"," Marmaris ","Merkez",560
+"315","Kýymalý Pide","","12,00 TL","Fýrýn Ürünleri","Beþ Kardeþler"," Marmaris ","Merkez",356
+"316","Kýymalý Kaþarlý Pide","","14,00 TL","Fýrýn Ürünleri","Beþ Kardeþler"," Marmaris ","Merkez",427
+"317","Tavuklu Pide","","14,00 TL","Fýrýn Ürünleri","Beþ Kardeþler"," Marmaris ","Merkez",328
+"318","Kuþbaþýlý Pide","","16,00 TL","Fýrýn Ürünleri","Beþ Kardeþler"," Marmaris ","Merkez",577
+"319","Karýþýk Pide","Kýyma, kaþar peyniri, domates, sucuk, biber","20,00 TL","Fýrýn Ürünleri","Beþ Kardeþler"," Marmaris ","Merkez",726
+"320","Adana Dürüm","Domates, maydanoz, sumak, isteðe göre soðan","12,00 TL","Dürümler & Ekmek Arasý Ürünler","Beþ Kardeþler"," Marmaris ","Merkez",325
+"321","Urfa Dürüm","Domates, maydanoz, sumak, isteðe göre soðan","12,00 TL","Dürümler & Ekmek Arasý Ürünler","Beþ Kardeþler"," Marmaris ","Merkez",335
+"322","Kuzu Þiþ Dürüm","Domates, maydanoz, sumak, isteðe göre soðan","14,00 TL","Dürümler & Ekmek Arasý Ürünler","Beþ Kardeþler"," Marmaris ","Merkez",497
+"323","Tavuk Þiþ Dürüm","Domates, maydanoz, sumak, isteðe göre soðan","10,00 TL","Dürümler & Ekmek Arasý Ürünler","Beþ Kardeþler"," Marmaris ","Merkez",397
+"324","Ekmek Arasý Izgara Köfte","Domates, maydanoz, sumak, isteðe göre soðan","10,00 TL","Dürümler & Ekmek Arasý Ürünler","Beþ Kardeþler"," Marmaris ","Merkez",477
+"325","Kiremitte Et","Salata ile","20,00 TL","Diðer Lezzetler","Beþ Kardeþler"," Marmaris ","Merkez",255
+"326","Kiremitte Kaþarlý Et","Salata ile","22,00 TL","Diðer Lezzetler","Beþ Kardeþler"," Marmaris ","Merkez",283
+"327","Kiremitte Köfte","Salata ile","17,00 TL","Diðer Lezzetler","Beþ Kardeþler"," Marmaris ","Merkez",188
+"328","Kiremitte Kaþarlý Köfte","Salata ile","19,00 TL","Diðer Lezzetler","Beþ Kardeþler"," Marmaris ","Merkez",259
+"329","Kiremitte Tavuk","Salata ile","16,00 TL","Diðer Lezzetler","Beþ Kardeþler"," Marmaris ","Merkez",563
+"330","Kiremitte Kaþarlý Tavuk","Salata ile","18,00 TL","Diðer Lezzetler","Beþ Kardeþler"," Marmaris ","Merkez",540
+"343","Hamburger","Hamburger köftesi, domates, marul, turþu. Patates kýzartmasý ile","13,00 TL"," Burgerler","Big Chef"," Marmaris ","Merkez",425
+"344","Cheeseburger","Hamburger köftesi, cheddar peyniri, domates, marul, turþu. Patates kýzartmasý ile","14,00 TL"," Burgerler","Big Chef"," Marmaris ","Merkez",228
+"345","Chicken Burger","Tavuk þnitzel, domates, marul, turþu. Patates kýzartmasý ile","13,00 TL"," Burgerler","Big Chef"," Marmaris ","Merkez",274
+"346","Tavuk Külbastý","Patates kýzartmasý, salata, pilav, lavaþ ile","17,00 TL"," Izgaralar & Kebaplar","Big Chef"," Marmaris ","Merkez",151
+"347","Tavuk Izgara","Patates kýzartmasý, salata, pilav, lavaþ ile","17,00 TL"," Izgaralar & Kebaplar","Big Chef"," Marmaris ","Merkez",361
+"348","Sporcu Tavuk Izgara","Izgara tavuk, pilav, salata","17,00 TL"," Izgaralar & Kebaplar","Big Chef"," Marmaris ","Merkez",265
+"349","Adana Kebap","Patates kýzartmasý, salata, pilav, lavaþ ile","20,00 TL"," Izgaralar & Kebaplar","Big Chef"," Marmaris ","Merkez",648
+"350","Urfa Kebap","Patates kýzartmasý, salata, pilav, lavaþ ile","20,00 TL"," Izgaralar & Kebaplar","Big Chef"," Marmaris ","Merkez",298
+"351","Et Þiþ","Patates kýzartmasý, salata, pilav, lavaþ ile","30,00 TL"," Izgaralar & Kebaplar","Big Chef"," Marmaris ","Merkez",548
+"352","Tavuk Þiþ","Patates kýzartmasý, salata, pilav, lavaþ ile","17,00 TL"," Izgaralar & Kebaplar","Big Chef"," Marmaris ","Merkez",574
+"353","Tavuk Kanat","Patates kýzartmasý, salata, pilav, lavaþ ile","19,00 TL"," Izgaralar & Kebaplar","Big Chef"," Marmaris ","Merkez",450
+"354","Izgara Köfte","Patates kýzartmasý, salata, pilav, lavaþ ile","18,00 TL"," Izgaralar & Kebaplar","Big Chef"," Marmaris ","Merkez",689
+"355","Pilav Üstü Et Döner","","20,00 TL"," Et Dönerler","Big Chef"," Marmaris ","Merkez",743
+"356","Bursa Ýskender (Et Dönerden)","","22,00 TL"," Et Dönerler","Big Chef"," Marmaris ","Merkez",570
+"357","Et Döner Dürüm","Domates, marul, soðan, patates kýzartmasý, sarýmsaklý mayonez, sos","14,00 TL"," Et Dönerler","Big Chef"," Marmaris ","Merkez",144
+"358","Pilav Üstü Tavuk Döner","","17,00 TL"," Tavuk Dönerler","Big Chef"," Marmaris ","Merkez",388
+"359","Tavuk Döner Dürüm","Domates, marul, soðan, patates kýzartmasý, sarýmsaklý mayonez, sos","9,00 TL"," Tavuk Dönerler","Big Chef"," Marmaris ","Merkez",790
+"360","Fish & Chips","Panelenmiþ mezgit, patates kýzartmasý","35,00 TL"," Deniz Ürünleri","Big Chef"," Marmaris ","Merkez",405
+"361","Ekmek Arasý Mezgit","Marul, soðan","20,00 TL"," Deniz Ürünleri","Big Chef"," Marmaris ","Merkez",485
+"362","Ekmek Arasý Uskumru","Marul, soðan","16,00 TL"," Deniz Ürünleri","Big Chef"," Marmaris ","Merkez",327
+"363","Lahmacun","","6,00 TL"," Fýrýn Ürünleri","Big Chef"," Marmaris ","Merkez",356
+"364","Kýymalý Pide","","13,00 TL"," Fýrýn Ürünleri","Big Chef"," Marmaris ","Merkez",516
+"365","Kaþarlý Pide","","13,00 TL"," Fýrýn Ürünleri","Big Chef"," Marmaris ","Merkez",427
+"366","Kýymalý Kaþarlý Pide","","15,00 TL"," Fýrýn Ürünleri","Big Chef"," Marmaris ","Merkez",515
+"367","Kuþbaþýlý Pide","","16,00 TL"," Fýrýn Ürünleri","Big Chef"," Marmaris ","Merkez",586
+"368","Kuþbaþýlý Kaþarlý Pide","","18,00 TL"," Fýrýn Ürünleri","Big Chef"," Marmaris ","Merkez",646
+"369","Margherita Pizza (Orta)","Pizza sosu, kaþar peyniri","15,00 TL"," Orta Boy Pizzalar (1 Kiþilik)","Big Chef"," Marmaris ","Merkez",545
+"370","Sucuklu Pizza (Orta)","Pizza sosu, kaþar peyniri, sucuk","17,00 TL"," Orta Boy Pizzalar (1 Kiþilik)","Big Chef"," Marmaris ","Merkez",424
+"371","Mantarlý Pizza (Orta)","Pizza sosu, kaþar peyniri, mantar","17,00 TL"," Orta Boy Pizzalar (1 Kiþilik)","Big Chef"," Marmaris ","Merkez",345
+"372","Hawaii Pizza (Orta)","Pizza sosu, kaþar peyniri, dana jambon, ananas","19,00 TL"," Orta Boy Pizzalar (1 Kiþilik)","Big Chef"," Marmaris ","Merkez",530
+"373","Karýþýk Pizza (Orta)","Pizza sosu, kaþar peyniri, sucuk, salam, sosis, mýsýr, domates, biber","19,00 TL"," Orta Boy Pizzalar (1 Kiþilik)","Big Chef"," Marmaris ","Merkez",409
+"374","Tavuk Dönerli Pizza (Orta)","Pizza sosu, kaþar peyniri, tavuk döner","19,00 TL"," Orta Boy Pizzalar (1 Kiþilik)","Big Chef"," Marmaris ","Merkez",566
+"375","Et Dönerli Pizza (Orta)","Pizza sosu, kaþar peyniri, et döner","20,00 TL"," Orta Boy Pizzalar (1 Kiþilik)","Big Chef"," Marmaris ","Merkez",455
+"376","Margherita Pizza (Büyük)","Pizza sosu, kaþar peyniri","21,00 TL","Büyük Boy Pizzalar (2 Kiþilik)","Big Chef"," Marmaris ","Merkez",521
+"377","Sucuklu Pizza (Büyük)","Pizza sosu, kaþar peyniri, sucuk","23,00 TL","Büyük Boy Pizzalar (2 Kiþilik)","Big Chef"," Marmaris ","Merkez",758
+"378","Mantarlý Pizza (Büyük)","Pizza sosu, kaþar peyniri, mantar","23,00 TL","Büyük Boy Pizzalar (2 Kiþilik)","Big Chef"," Marmaris ","Merkez",561
+"379","Hawaii Pizza (Büyük)","Pizza sosu, kaþar peyniri, dana jambon, ananas","26,00 TL","Büyük Boy Pizzalar (2 Kiþilik)","Big Chef"," Marmaris ","Merkez",325
+"380","Karýþýk Pizza (Büyük)","Pizza sosu, kaþar peyniri, sucuk, salam, sosis, mýsýr, domates, biber","26,00 TL","Büyük Boy Pizzalar (2 Kiþilik)","Big Chef"," Marmaris ","Merkez",335
+"381","Tavuk Dönerli Pizza (Büyük)","Pizza sosu, kaþar peyniri, tavuk döner","27,00 TL","Büyük Boy Pizzalar (2 Kiþilik)","Big Chef"," Marmaris ","Merkez",395
+"382","Et Dönerli Pizza (Büyük)","Pizza sosu, kaþar peyniri, et döner","28,00 TL","Büyük Boy Pizzalar (2 Kiþilik)","Big Chef"," Marmaris ","Merkez",308
+"383","Minced Onion Pie","Kýyma, soðan","20,00 TL","British Pies","Big Chef"," Marmaris ","Merkez",505
+"384","Steak Pie","Parça dana eti","20,00 TL","British Pies","Big Chef"," Marmaris ","Merkez",250
+"385","Meat Potato Pie","Kýyma, patates","20,00 TL","British Pies","Big Chef"," Marmaris ","Merkez",379
+"386","Chicken Mushroom Pie","Tavuk, mantar","20,00 TL","British Pies","Big Chef"," Marmaris ","Merkez",359
+"387","Adana Dürüm","Domates, yeþillik, soðan","11,00 TL","Dürümler & Ekmek Arasý Ürünler","Big Chef"," Marmaris ","Merkez",325
+"388","Urfa Dürüm","Domates, yeþillik, soðan","11,00 TL","Dürümler & Ekmek Arasý Ürünler","Big Chef"," Marmaris ","Merkez",335
+"389","Tavuk Þiþ Dürüm","Domates, yeþillik, soðan","11,00 TL","Dürümler & Ekmek Arasý Ürünler","Big Chef"," Marmaris ","Merkez",395
+"390","Ekmek Arasý Köfte","Domates, yeþillik, soðan","11,00 TL","Dürümler & Ekmek Arasý Ürünler","Big Chef"," Marmaris ","Merkez",308
+"391","Tavuk Nugget (6 Adet)","Patates kýzartmasý ile","14,00 TL","Yan Ürünler","Big Chef"," Marmaris ","Merkez",606
+"392","Patates Kýzartmasý","","9,00 TL","Yan Ürünler","Big Chef"," Marmaris ","Merkez",250
+"393","Peynir Soslu Patates Kýzartmasý","","13,00 TL","Yan Ürünler","Big Chef"," Marmaris ","Merkez",321
+"394","Gravy Soslu Patates Kýzartmasý","","13,00 TL","Yan Ürünler","Big Chef"," Marmaris ","Merkez",289
+"395","Bezelye Püreli Patates Kýzartmasý","","13,00 TL","Yan Ürünler","Big Chef"," Marmaris ","Merkez",357
+"396","Soðan Halkasý (10 Adet)","","10,00 TL","Yan Ürünler","Big Chef"," Marmaris ","Merkez",388
+"407","Tavuk Kanat (1 kg.)","Patates kýzartmasý, pilav, salata, lavaþ ile","45,00 TL","Kiloluk Ürünler (Piþirilmiþ)","Big Chef"," Marmaris ","Merkez",2465
+"408","Izgara Tavuk (1 kg.)","Patates kýzartmasý, pilav, salata, lavaþ ile","45,00 TL","Kiloluk Ürünler (Piþirilmiþ)","Big Chef"," Marmaris ","Merkez",1795
+"409","Curry Sauce","","4,00 TL","Soslar","Big Chef"," Marmaris ","Merkez",75
+"410","Gravy Sauce","","4,00 TL","Soslar","Big Chef"," Marmaris ","Merkez",68
+"411","Mushy Peas Sauce","","4,00 TL","Soslar","Big Chef"," Marmaris ","Merkez",86
+"513","Ayak Paça Çorbasý","","16,00 TL"," Çorbalar","Ciðerci Müslüm"," Marmaris ","Merkez",258
+"514","Beyin Çorbasý","","10,00 TL"," Çorbalar","Ciðerci Müslüm"," Marmaris ","Merkez",74
+"515","Damar Çorbasý","","16,00 TL"," Çorbalar","Ciðerci Müslüm"," Marmaris ","Merkez",139
+"516","Ýþkembe Çorbasý","","16,00 TL"," Çorbalar","Ciðerci Müslüm"," Marmaris ","Merkez",151
+"517","Kelle Paça Çorbasý","","16,00 TL"," Çorbalar","Ciðerci Müslüm"," Marmaris ","Merkez",102
+"518","Tuzlama Çorbasý","","16,00 TL"," Çorbalar","Ciðerci Müslüm"," Marmaris ","Merkez",139
+"519","Edirne Yaprak Ciðeri","","29,00 TL"," Ciðerler","Ciðerci Müslüm"," Marmaris ","Merkez",382
+"520","Ciðer Þiþ","Közlenmiþ biber, közlenmiþ domates, yeþillik, soðan salatasý, haydari, ezme, lavaþ ile","29,00 TL"," Ciðerler","Ciðerci Müslüm"," Marmaris ","Merkez",287
+"521","Ciðer Þiþ Dürüm","Domates, maydanoz, isteðe göre soðan","14,00 TL"," Ciðerler","Ciðerci Müslüm"," Marmaris ","Merkez",287
+"522","Adana Kebap","Közlenmiþ biber, közlenmiþ domates, yeþillik, soðan salatasý, haydari, ezme, lavaþ ile","29,00 TL"," Kebaplar","Ciðerci Müslüm"," Marmaris ","Merkez",361
+"523","Urfa Kebap","Közlenmiþ biber, közlenmiþ domates, yeþillik, soðan salatasý, haydari, ezme, lavaþ ile","29,00 TL"," Kebaplar","Ciðerci Müslüm"," Marmaris ","Merkez",265
+"524","Beyti Kebap","Közlenmiþ biber, közlenmiþ domates, yeþillik, soðan salatasý, haydari, ezme, lavaþ ile","33,00 TL"," Kebaplar","Ciðerci Müslüm"," Marmaris ","Merkez",489
+"525","Haþhaþlý Kebap","Közlenmiþ biber, közlenmiþ domates, yeþillik, soðan salatasý, haydari, ezme, lavaþ ile","30,00 TL"," Kebaplar","Ciðerci Müslüm"," Marmaris ","Merkez",361
+"526","Böbrek Þiþ","Közlenmiþ biber, közlenmiþ domates, yeþillik, soðan salatasý, haydari, ezme, lavaþ ile","29,00 TL"," Izgaralar","Ciðerci Müslüm"," Marmaris ","Merkez",128
+"527","Çöp Þiþ","Közlenmiþ biber, közlenmiþ domates, yeþillik, soðan salatasý, haydari, ezme, lavaþ ile","31,00 TL"," Izgaralar","Ciðerci Müslüm"," Marmaris ","Merkez",324
+"528","Dalak Þiþ","Közlenmiþ biber, közlenmiþ domates, yeþillik, soðan salatasý, haydari, ezme, lavaþ ile","29,00 TL"," Izgaralar","Ciðerci Müslüm"," Marmaris ","Merkez",128
+"529","Tavuk Kanat","Közlenmiþ biber, közlenmiþ domates, yeþillik, soðan salatasý, haydari, ezme, lavaþ ile","26,00 TL"," Izgaralar","Ciðerci Müslüm"," Marmaris ","Merkez",211
+"530","Tavuk Þiþ","Közlenmiþ biber, közlenmiþ domates, yeþillik, soðan salatasý, haydari, ezme, lavaþ ile","25,00 TL"," Izgaralar","Ciðerci Müslüm"," Marmaris ","Merkez",208
+"531","Yürek Þiþ","Közlenmiþ biber, közlenmiþ domates, yeþillik, soðan salatasý, haydari, ezme, lavaþ ile","29,00 TL"," Izgaralar","Ciðerci Müslüm"," Marmaris ","Merkez",287
+"532","Lahmacun","Yeþillik, limon, soðan salatasý ile","8,00 TL","Fýrýn Ürünleri","Ciðerci Müslüm"," Marmaris ","Merkez",327
+"533","Sarýmsaklý Lahmacun","Yeþillik, limon, soðan salatasý ile","8,00 TL","Fýrýn Ürünleri","Ciðerci Müslüm"," Marmaris ","Merkez",339
+"534","Kaþarlý Pide","Yeþillik, limon, soðan salatasý ile","9,00 TL","Fýrýn Ürünleri","Ciðerci Müslüm"," Marmaris ","Merkez",516
+"535","Kýymalý Pide","Yeþillik, limon, soðan salatasý ile","15,00 TL","Fýrýn Ürünleri","Ciðerci Müslüm"," Marmaris ","Merkez",356
+"536","Kýymalý Kaþarlý Pide","Yeþillik, limon, soðan salatasý ile","15,00 TL","Fýrýn Ürünleri","Ciðerci Müslüm"," Marmaris ","Merkez",436
+"537","Kuþbaþýlý Pide","Yeþillik, limon, soðan salatasý ile","16,00 TL","Fýrýn Ürünleri","Ciðerci Müslüm"," Marmaris ","Merkez",515
+"538","Kuþbaþýlý Kaþarlý Pide","Yeþillik, limon, soðan salatasý ile","17,00 TL","Fýrýn Ürünleri","Ciðerci Müslüm"," Marmaris ","Merkez",516
+"539","Domatesli Kaþarlý Pide","Yeþillik, limon, soðan salatasý ile","18,00 TL","Fýrýn Ürünleri","Ciðerci Müslüm"," Marmaris ","Merkez",538
+"540","Sucuklu Kaþarlý Pide","Yeþillik, limon, soðan salatasý ile","15,00 TL","Fýrýn Ürünleri","Ciðerci Müslüm"," Marmaris ","Merkez",599
+"541","Mantarlý Kaþarlý Pide","Yeþillik, limon, soðan salatasý ile","16,00 TL","Fýrýn Ürünleri","Ciðerci Müslüm"," Marmaris ","Merkez",531
+"542","Karýþýk Pide","Yeþillik, limon, soðan salatasý ile","16,00 TL","Fýrýn Ürünleri","Ciðerci Müslüm"," Marmaris ","Merkez",550
+"543","Adana Dürüm","Domates, maydanoz, isteðe göre soðan","14,00 TL","Dürümler","Ciðerci Müslüm"," Marmaris ","Merkez",325
+"544","Urfa Dürüm","Domates, maydanoz, isteðe göre soðan","14,00 TL","Dürümler","Ciðerci Müslüm"," Marmaris ","Merkez",335
+"545","Böbrek Dürüm","Domates, maydanoz, isteðe göre soðan","14,00 TL","Dürümler","Ciðerci Müslüm"," Marmaris ","Merkez",228
+"546","Dalak Dürüm","Domates, maydanoz, isteðe göre soðan","14,00 TL","Dürümler","Ciðerci Müslüm"," Marmaris ","Merkez",228
+"547","Et Çöp Þiþ Dürüm","Domates, maydanoz, isteðe göre soðan","16,00 TL","Dürümler","Ciðerci Müslüm"," Marmaris ","Merkez",324
+"548","Tavuk Þiþ Dürüm","Domates, maydanoz, isteðe göre soðan","13,00 TL","Dürümler","Ciðerci Müslüm"," Marmaris ","Merkez",395
+"549","Yürek Dürüm","Domates, maydanoz, isteðe göre soðan","14,00 TL","Dürümler","Ciðerci Müslüm"," Marmaris ","Merkez",339
+"1241","Et Döner","Pilav, patates kýzartmasý, salata ile","30,00 TL"," Et Dönerler","Happy Face"," Marmaris ","Siteler",349
+"1242","Yarým Ekmek Arasý Et Döner","Marul, domates, soðan","16,00 TL"," Et Dönerler","Happy Face"," Marmaris ","Siteler",440
+"1243","Et Döner Dürüm","Lavaþ ekmeði, marul, domates, soðan","16,00 TL"," Et Dönerler","Happy Face"," Marmaris ","Siteler",570
+"1244","Tavuk Döner","Pilav, patates kýzartmasý, salata ile","25,00 TL"," Tavuk Dönerler","Happy Face"," Marmaris ","Siteler",183
+"1245","Yarým Ekmek Arasý Tavuk Döner","Marul, domates, soðan, ketçap, mayonez","10,00 TL"," Tavuk Dönerler","Happy Face"," Marmaris ","Siteler",390
+"1246","Tavuk Döner Dürüm","Lavaþ ekmeði, marul, domates, soðan, ketçap, mayonez","10,00 TL"," Tavuk Dönerler","Happy Face"," Marmaris ","Siteler",502
+"1247","Gurme Hamburger","Ev yapýmý hamburger köftesi, füme et, turþu, domates, marul, karamelize soðan. Patates kýzartmasý ile","30,00 TL"," Burgerler","Happy Face"," Marmaris ","Siteler",313
+"1248","Gurme Cheeseburger","Ev yapýmý hamburger köftesi, cheddar peyniri, füme et, turþu, domates, marul, karamelize soðan. Patates kýzartmasý ile","35,00 TL"," Burgerler","Happy Face"," Marmaris ","Siteler",290
+"1249","Yarým Ekmek Arasý Köfte","Marul, domates, soðan","14,00 TL"," Ekmek Arasý Ürünler","Happy Face"," Marmaris ","Siteler",477
+"1250","Sade Kumpir","Tereyaðý, kaþar peyniri","10,00 TL","Kumpirler","Happy Face"," Marmaris ","Siteler",118
+"1251","Full Karýþýk Kumpir","Seçeceðiniz malzemeler ile","17,00 TL","Kumpirler","Happy Face"," Marmaris ","Siteler",478
+"1252","Et Dönerli Kumpir","Rus salatasý, haydari, ezme","25,00 TL","Kumpirler","Happy Face"," Marmaris ","Siteler",468
+"1253","Tavuk Dönerli Kumpir","Mýsýr, ezme, haydari","22,00 TL","Kumpirler","Happy Face"," Marmaris ","Siteler",301
+"1363","Zurna Et Döner Dürüm","Soðan, marul, domates, özel sos","30,00 TL"," Et Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",855
+"1364","Et Döner","","28,00 TL"," Et Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",349
+"1365","Pilav Üstü Et Döner","","28,00 TL"," Et Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",689
+"1366","Ýskender (Et Dönerden)","","35,00 TL"," Et Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",743
+"1367","Et Döner Dürüm","Soðan, marul, domates, özel sos","18,00 TL"," Et Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",570
+"1368","Ekmek Arasý Et Döner","Soðan, marul, domates, özel sos","18,00 TL"," Et Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",880
+"1369","Kaþarlý Et Döner Dürüm","Marul, soðan, domates, özel sos","21,00 TL"," Et Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",641
+"1370","Kaþarlý Zurna Et Döner Dürüm","Marul, soðan, domates, özel sos","35,00 TL"," Et Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",961
+"1371","Zurna Tavuk Döner Dürüm","Patates kýzartmasý, turþu, özel sos","20,00 TL"," Tavuk Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",753
+"1372","Tavuk Döner","","22,00 TL"," Tavuk Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",183
+"1373","Pilav Üstü Tavuk Döner","","22,00 TL"," Tavuk Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",492
+"1374","Ýskender (Tavuk Dönerden)","","25,00 TL"," Tavuk Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",431
+"1375","Tavuk Döner Dürüm","Patates kýzartmasý, turþu, özel sos","10,00 TL"," Tavuk Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",502
+"1376","Ekmek Arasý Tavuk Döner","Patates kýzartmasý, turþu, özel sos","10,00 TL"," Tavuk Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",780
+"1377","Kaþarlý Tavuk Döner Dürüm","Patates kýzartmasý, turþu, özel sos","13,00 TL"," Tavuk Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",573
+"1378","Kaþarlý Zurna Tavuk Döner Dürüm","Patates kýzartmasý, turþu, özel sos","25,00 TL"," Tavuk Dönerler","Hatay Ateþi"," Marmaris ","Armutalan",859
+"1379","Izgara Köfte","Marul, domates, soðan ile","30,00 TL"," Köfteler","Hatay Ateþi"," Marmaris ","Armutalan",183
+"1380","Yarým Ekmek Arasý Köfte","Marul, domates, soðan","15,00 TL"," Köfteler","Hatay Ateþi"," Marmaris ","Armutalan",238
+"1381","3/4 Ekmek Arasý Köfte","Marul, domates, soðan","22,00 TL"," Köfteler","Hatay Ateþi"," Marmaris ","Armutalan",357
+"1382","Tam Ekmek Arasý Köfte","Marul, domates, soðan","30,00 TL"," Köfteler","Hatay Ateþi"," Marmaris ","Armutalan",477
+"1383","Izgara Sucuk","Marul, domates, soðan ile","30,00 TL"," Sucuklar","Hatay Ateþi"," Marmaris ","Armutalan",337
+"1384","Yarým Ekmek Arasý Izgara Sucuk","Marul, domates, soðan","15,00 TL"," Sucuklar","Hatay Ateþi"," Marmaris ","Armutalan",227
+"1385","3/4 Ekmek Arasý Izgara Sucuk","Marul, domates, soðan","22,00 TL"," Sucuklar","Hatay Ateþi"," Marmaris ","Armutalan",341
+"1386","Tam Ekmek Arasý Izgara Sucuk","Marul, domates, soðan","30,00 TL"," Sucuklar","Hatay Ateþi"," Marmaris ","Armutalan",455
+"1387","Hamburger","Marul, domates, soðan, ketçap, mayonez. Patates kýzartmasý ile","20,00 TL","Burgerler","Hatay Ateþi"," Marmaris ","Armutalan",502
+"1388","Chicken Burger","Marul, domates, soðan, ketçap, mayonez. Patates kýzartmasý ile","18,00 TL","Burgerler","Hatay Ateþi"," Marmaris ","Armutalan",286
+"1389","Cheeseburger","Marul, domates, soðan, burger peyniri, ketçap, mayonez. Patates kýzartmasý ile","25,00 TL","Burgerler","Hatay Ateþi"," Marmaris ","Armutalan",380
+"1390","Patates Kýzartmasý (Küçük)","","10,00 TL","Yan Ürünler","Hatay Ateþi"," Marmaris ","Armutalan",207
+"1391","Patates Kýzartmasý (Orta)","","15,00 TL","Yan Ürünler","Hatay Ateþi"," Marmaris ","Armutalan",327
+"1392","Patates Kýzartmasý (Büyük)","","20,00 TL","Yan Ürünler","Hatay Ateþi"," Marmaris ","Armutalan",440
+"1416","Sade Kumpir","Kaþar peyniri, tereyaðý","12,00 TL"," Kumpirler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",118
+"1417","Full Karýþýk Kumpir","Sosis, Rus salatasý, Ýtalyan salata, yeþil zeytin, siyah zeytin, mantar, mýsýr, turþu, coleslaw salata, kýsýr, kýrmýzýlahana, ezme, haydari","20,00 TL"," Kumpirler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",478
+"1418","Sosisli Kumru Sandviç","Sosis, eritilmiþ kaþar peyniri, Rus salatasý, turþu, ketçap, mayonez","15,00 TL"," Sandviçler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",557
+"1419","Çeþme Kumru Sandviç","Sosis, sucuk, salam, eritilmiþ kaþar peyniri, Rus salatasý, turþu, ketçap, mayonez","17,00 TL"," Sandviçler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",557
+"1420","Ýzmir Kumru Sandviç","Sosis, sucuk, salam, eritilmiþ kaþar peyniri, turþu, ketçap, mayonez","15,00 TL"," Sandviçler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",557
+"1421","Hot Dog","","12,00 TL"," Sandviçler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",232
+"1422","Hot Dog Goralý Sandviç","Rus salatasý ile","13,00 TL"," Sandviçler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",252
+"1423","Ton Balýklý Sandviç","","17,00 TL"," Sandviçler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",396
+"1424","Karýþýk Sandviç","Sucuk, salam, sosis, kaþar peyniri, domates","15,00 TL"," Sandviçler","Ýzmir Kumru & Kumpir"," Marmaris ","Merkez",599
+"1434","Dana Antrikot (180 - 200 gr.)","Mangal ateþinde döküm demirde doðal haliyle piþirilir.","52,00 TL"," Kýrmýzý Etler","Kýrçiçeði"," Marmaris ","Merkez",554
+"1435","Dana Bonfile (180 - 200 gr.)","Mangal ateþinde döküm demirde doðal haliyle piþirilir.","56,00 TL"," Kýrmýzý Etler","Kýrçiçeði"," Marmaris ","Merkez",298
+"1436","Kýrçiçeði Gurme Köfte (150 gr.)","Mantar sos ve cheddar peyniri ile mangal ateþinde döküm demir üzerinde piþirilir.","41,00 TL"," Kýrmýzý Etler","Kýrçiçeði"," Marmaris ","Merkez",235
+"1437","Kuzu Kelebek Pirzola (180 - 200 gr.)","Mangal ateþinde döküm demirde doðal haliyle piþirilir.","55,00 TL"," Kýrmýzý Etler","Kýrçiçeði"," Marmaris ","Merkez",373
+"1438","Soslu Dana Biftek (180 - 200 gr.)","Marine edilip dinlendirildikten sonra mangal ateþinde döküm demir üzerinde piþirilir.","50,00 TL"," Kýrmýzý Etler","Kýrçiçeði"," Marmaris ","Merkez",420
+"1450","Tek Kiþilik Kahvaltý","Beyaz peynir, tulum peyniri, zeytinyaðlý kekikli lor peyniri, haþlanmýþ yumurta, bal & kaymak, reçel, Nutella, tahin, çemen, tereyaðý, mini ýspanaklý peynirli pide, balon ekmek, kaþarlý boþ pide, domates, salatalýk, siyah zeytin, yeþil zeytin, közlenmiþ biber, roka","32,00 TL"," Kahvaltýlýklar","Kýrçiçeði"," Marmaris ","Merkez",558
+"1451","Kaþarlý Boþ Pide","","5,00 TL"," Baþlangýçlar & Ara Sýcaklar","Kýrçiçeði"," Marmaris ","Merkez",516
+"1452","Domates Soslu Yoðurtlu Patates","Yoðurtlu, ev yapýmý domates soslu","15,50 TL"," Baþlangýçlar & Ara Sýcaklar","Kýrçiçeði"," Marmaris ","Merkez",290
+"1453","Kýzartma Ýçli Köfte (2 Adet)","Bol kýyma, ceviz. domates, maydanoz, limon ile","8,50 TL"," Baþlangýçlar & Ara Sýcaklar","Kýrçiçeði"," Marmaris ","Merkez",414
+"1454","Nazilli Gülü (Adet)","Özel kýyma harcý ile hazýrlanan mini pide","11,50 TL"," Baþlangýçlar & Ara Sýcaklar","Kýrçiçeði"," Marmaris ","Merkez",1
+"1455","Piyaz","Kuru fasulye, çarliston biber, kýrmýzý soðan, maydanoz, domates, yumurta, sirke, limon, zeytinyaðý","12,00 TL"," Yan Ürünler","Kýrçiçeði"," Marmaris ","Merkez",162
+"1456","Tahinli Piyaz","Kuru fasulye, çarliston biber, kýrmýzý soðan, maydanoz, domates, yumurta, sirke, limon, zeytinyaðý, tahin","13,00 TL"," Yan Ürünler","Kýrçiçeði"," Marmaris ","Merkez",186
+"1457","Çubuk Turþu","Dereotu, sarýmsak, karabiber, defne yapraðý","9,00 TL"," Yan Ürünler","Kýrçiçeði"," Marmaris ","Merkez",16
+"1458","Karýþýk Ev Turþusu","Lahana, biber, havuç, badem, domates, salatalýk turþusu","10,00 TL"," Yan Ürünler","Kýrçiçeði"," Marmaris ","Merkez",20
+"1459","Çömlekte Kaymaklý Yoðurt","","11,00 TL"," Yan Ürünler","Kýrçiçeði"," Marmaris ","Merkez",154
+"1460","Patates Kýzartmasý","","11,00 TL"," Yan Ürünler","Kýrçiçeði"," Marmaris ","Merkez",250
+"1461","Et Suyu Çorba","","12,50 TL"," Çorbalar","Kýrçiçeði"," Marmaris ","Merkez",159
+"1462","Mercimek Çorbasý","","12,50 TL"," Çorbalar","Kýrçiçeði"," Marmaris ","Merkez",96
+"1463","Gelin Çorbasý","","12,50 TL"," Çorbalar","Kýrçiçeði"," Marmaris ","Merkez",93
+"1464","Domates Çorbasý","","14,00 TL"," Çorbalar","Kýrçiçeði"," Marmaris ","Merkez",124
+"1465","Ýþkembe Çorbasý","","18,50 TL"," Çorbalar","Kýrçiçeði"," Marmaris ","Merkez",186
+"1466","Dil Çorbasý","","19,50 TL"," Çorbalar","Kýrçiçeði"," Marmaris ","Merkez",135
+"1467","Beyin Çorbasý","","19,00 TL"," Çorbalar","Kýrçiçeði"," Marmaris ","Merkez",74
+"1468","Tuzlama Çorbasý","","19,50 TL"," Çorbalar","Kýrçiçeði"," Marmaris ","Merkez",139
+"1469","Karýþýk Çorba","Beyin, iþkembe, dil","21,00 TL"," Çorbalar","Kýrçiçeði"," Marmaris ","Merkez",153
+"1470","Damar Çorbasý","","22,00 TL"," Çorbalar","Kýrçiçeði"," Marmaris ","Merkez",139
+"1471","Tavuk Suyu Çorba","","15,00 TL"," Çorbalar","Kýrçiçeði"," Marmaris ","Merkez",88
+"1472","Kýymalý Üç Yumurtalý Pide","","25,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",656
+"1473","Kýymalý Çift Yumurtalý
+Pide","","23,50 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",556
+"1474","Kýrçiçeði 4 Peynirli Pide","Lor peyniri, kaþar peyniri, tulum peyniri, beyaz peynir, maydanoz, çeri domates, tereyaðý","24,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",255
+"1475","Kýymalý Pide","","20,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",356
+"1476","Çýtýr Kýymalý Pide","","21,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",356
+"1477","Kýymalý Yumurtalý Pide","","22,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",456
+"1478","Kýymalý Kaþarlý Pide","","23,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",426
+"1479","Sebzeli Peynirli Pide","","22,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",255
+"1480","Sebzeli Peynirli Yumurtalý Pide","","24,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",355
+"1481","Mantarlý Sebzeli Çýtýr Pide","","23,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",255
+"1482","Peynirli Pide","","20,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",255
+"1483","Peynirli Yumurtalý Pide","","22,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",355
+"1484","Kaþarlý Pide","","20,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",516
+"1485","Kaþarlý Yumurtalý Pide","","22,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",616
+"1486","Kuþbaþýlý Pide","","26,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",515
+"1487","Çýtýr Kuþbaþýlý Pide","","27,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",515
+"1488","Kuþbaþýlý Kaþarlý Pide","","29,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",585
+"1489","Dönerli Kaþarlý Pide","","29,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",356
+"1490","Ispanaklý Peynirli Pide","","21,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",255
+"1491","Ispanaklý Peynirli Mantarlý Pide","","22,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",255
+"1492","Isýrgan Otlu Peynirli Pide","","24,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",255
+"1493","Mantarlý Kaþarlý Pide","","21,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",326
+"1494","Sucuklu Kaþarlý Pide","","24,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",428
+"1495","Piliç Etli Pide","","21,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",308
+"1496","Çýtýr Piliç Etli Pide","","22,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",308
+"1497","Piliç Etli Kaþarlý Pide","","24,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",378
+"1498","Karýþýk Pide","Kýyma, sucuk, salam, sosis, kaþar peyniri, yumurta","29,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",438
+"1499","Nazilli Gülü","3 Adet","32,00 TL"," Pideler","Kýrçiçeði"," Marmaris ","Merkez",1
+"1500","Kýrçiçeði Özel Cevizli Lahmacun ","Ceviz, özel baharat, hafif acýlý","15,00 TL"," Lahmacunlar","Kýrçiçeði"," Marmaris ","Merkez",327
+"1501","Lahmacun","","12,00 TL"," Lahmacunlar","Kýrçiçeði"," Marmaris ","Merkez",397
+"1502","Kýymalý Kaþarlý Lahmacun","","14,00 TL"," Lahmacunlar","Kýrçiçeði"," Marmaris ","Merkez",397
+"1503","Kuþbaþýlý Lahmacun","","16,00 TL"," Lahmacunlar","Kýrçiçeði"," Marmaris ","Merkez",487
+"1504","Kuþbaþýlý Kaþarlý Lahmacun","","17,50 TL"," Lahmacunlar","Kýrçiçeði"," Marmaris ","Merkez",327
+"1505","Kaþarlý Lahmacun (Kýymasýz)","","12,00 TL"," Lahmacunlar","Kýrçiçeði"," Marmaris ","Merkez",234
+"1506","Fýndýk Lahmacun","","9,00 TL"," Lahmacunlar","Kýrçiçeði"," Marmaris ","Merkez",234
+"1507","Yoðurtlu Soslu Patatesli Döner","Patates kýzartmasý, döner üzerinde yoðurt, domates sos, tereyaðý, maydanoz, boþ pide","32,00 TL"," Dönerler","Kýrçiçeði"," Marmaris ","Merkez",390
+"1508","Kes Döner","Közlenmiþ biber & domates, sade döner ve lavaþ ","31,00 TL"," Dönerler","Kýrçiçeði"," Marmaris ","Merkez",349
+"1509","Et Döner","Pide üzerine et döner, yanýnda domates ve biber","31,00 TL"," Dönerler","Kýrçiçeði"," Marmaris ","Merkez",349
+"1510","Yoðurtlu Soslu Tereyaðlý Döner","","35,00 TL"," Dönerler","Kýrçiçeði"," Marmaris ","Merkez",743
+"1511","Pilav Üstü Et Döner","","35,00 TL"," Dönerler","Kýrçiçeði"," Marmaris ","Merkez",689
+"1512","Adana Kebap (Acýlý)","Közlenmiþ domates, közlenmiþ biber, sumaklý soðan, bulgur pilavý, boþ pide, lavaþ","31,00 TL","Kebaplar","Kýrçiçeði"," Marmaris ","Merkez",361
+"1513","Adana Kebap (Acýsýz)","Közlenmiþ domates, közlenmiþ biber, sumaklý soðan, bulgur pilavý, boþ pide, lavaþ","31,00 TL","Kebaplar","Kýrçiçeði"," Marmaris ","Merkez",265
+"1514","Fýrýnlanmýþ Sarma Beyti Kebap","Pul biber, sarýmsak, maydanoz. Susam ve kaþar peyniri ile lavaþa sarýlarak hazýrlanan beyti kebap, yoðurt ve domates sos ile servis edilir.","39,00 TL","Kebaplar","Kýrçiçeði"," Marmaris ","Merkez",818
+"1515","Manisa Kebap","Dilimlenmiþ boþ pide üzerine Manisa köftesi, yoðurt, domates sosu, maydanoz, sumak, tereyaðý. Közlenmiþ domates, közlenmiþ biber","33,00 TL","Kebaplar","Kýrçiçeði"," Marmaris ","Merkez",566
+"1516","Patlýcanlý Kebap","Patlýcan arasýnda Adana kebap yanýnda közlenmiþ domates, közlenmiþ biber, soðan, bulgur pilavý, boþ pide, lavaþ","37,00 TL","Kebaplar","Kýrçiçeði"," Marmaris ","Merkez",440
+"1517","Sarma Beyti","Pul biber, sarýmsak, maydanoz ile harmanlanmýþ lavaþ içerisinde beyti kebabý, yoðurt, domates sos, tereyaðý, kaþar peyniri. Közlenmiþ domates, közlenmiþ biber, bulgur pilavý","35,00 TL","Kebaplar","Kýrçiçeði"," Marmaris ","Merkez",818
+"1518","Kýrçiçeði Özel (2 Kiþilik)","Terbiyeli kuzu þiþ, acýsýz Adana kebap, ýzgara köfte, pirzola, tavuk þiþ, kaþarlý fýndýk lahmacun, kýymalý fýndýk lahmacun, döner, kuzu çöp þiþ, közlenmiþ domates, közlenmiþ biber, bulgur pilavý, pirinç pilavý, lavaþ","106,00 TL","Kebaplar","Kýrçiçeði"," Marmaris ","Merkez",1
+"1519","Kuzu Þiþ","Közlenmiþ domates, közlenmiþ biber, sumaklý soðan, bulgur pilavý, boþ pide, lavaþ","45,00 TL","Izgaralar","Kýrçiçeði"," Marmaris ","Merkez",303
+"1520","Piliç Þiþ","Közlenmiþ domates, közlenmiþ biber, sumaklý soðan, bulgur pilavý, boþ pide, lavaþ","31,00 TL","Izgaralar","Kýrçiçeði"," Marmaris ","Merkez",298
+"1521","Kuzu Çöp Þiþ","Közlenmiþ domates, közlenmiþ biber, sumaklý soðan, bulgur pilavý, boþ pide, lavaþ","38,00 TL","Izgaralar","Kýrçiçeði"," Marmaris ","Merkez",303
+"1522","Piliç Göðüs Izgara","Közlenmiþ domates, közlenmiþ biber, sumaklý soðan, bulgur pilavý, boþ pide, lavaþ","31,00 TL","Izgaralar","Kýrçiçeði"," Marmaris ","Merkez",552
+"1523","Izgara Köfte","Közlenmiþ domates, közlenmiþ biber, sumaklý soðan, bulgur pilavý, boþ pide, lavaþ","32,00 TL","Izgaralar","Kýrçiçeði"," Marmaris ","Merkez",183
+"1524","Kýrçiçeði Gurme Köfte","Sotelenmiþ mantar, cheddar peyniri. Közlenmiþ biber, domates, patates kýzartmasý","37,00 TL","Izgaralar","Kýrçiçeði"," Marmaris ","Merkez",235
+"1525","Karýþýk Izgara","Terbiyeli kuzu þiþ, Adana kebap, tavuk þiþ, ýzgara köfte, közlenmiþ domates, biber, sumaklý soðan, bulgur pilavý, boþ pide, lavaþ","47,00 TL","Izgaralar","Kýrçiçeði"," Marmaris ","Merkez",600
+"1526","Yoðurtlu Soslu Patatesli Köfte","Parmak patates, ýzgara köfte üzerinde yoðurt, domates sos, tereyaðý, maydanoz, boþ pide","35,00 TL","Izgaralar","Kýrçiçeði"," Marmaris ","Merkez",511
+"1527","Yoðurtlu Soslu Patatesli Tavuk","Patates kýzartmasý, tavuk üzerinde yoðurt, domates sos, tereyaðý, maydanoz, boþ pide","32,00 TL","Izgaralar","Kýrçiçeði"," Marmaris ","Merkez",388
+"1528","Kiremitte Özel Soslu Döner","Odun ateþinde piþen biber, domates, soðan. Yanýnda yoðurt, üzerinde közlenmiþ biber, domates ","35,00 TL","Kiremitte Ürünler","Kýrçiçeði"," Marmaris ","Merkez",1
+"1529","Kiremitte Köfte","Odun ateþinde piþen biber, domates, soðan ile","32,00 TL","Kiremitte Ürünler","Kýrçiçeði"," Marmaris ","Merkez",1
+"1530","Kiremitte Piliç","Odun ateþinde piþen biber, domates, soðan ile","31,00 TL","Kiremitte Ürünler","Kýrçiçeði"," Marmaris ","Merkez",1
+"1531","Gobit Piliç
+","","20,00 TL","Gobitler","Kýrçiçeði"," Marmaris ","Merkez",1
+"1532","Sade Kýrburger","Soðan, domates, maydanoz ile hazýrlanmýþ ev yapýmý köfte. Yanýnda patates kýzartmasý ile.","25,00 TL","Gobitler","Kýrçiçeði"," Marmaris ","Merkez",333
+"1533","Cheddar Peynirli Kýrburger","Soðan, domates, maydanoz ile hazýrlanmýþ ev yapýmý köfte, cheddar peyniri. Yanýnda patates kýzartmasý ile.","28,00 TL","Gobitler","Kýrçiçeði"," Marmaris ","Merkez",403
+"1534","Gobit Adana","","21,00 TL","Gobitler","Kýrçiçeði"," Marmaris ","Merkez",361
+"1535","Gobit Et Döner","Gobit ekmek arasýna döner, domates, roka, kebap sosu, isteðe göre soðan","22,00 TL","Gobitler","Kýrçiçeði"," Marmaris ","Merkez",349
+"1536","Sade Pizza","Domates, mantar, çarliston biber, kaþar peyniri, pizza sosu","22,00 TL","Pizzalar","Kýrçiçeði"," Marmaris ","Merkez",208
+"1537","Karýþýk Pizza","Sucuk, sosis, salam, domates, mantar, çarliston biber, kaþar peyniri, domates sos","26,00 TL","Pizzalar","Kýrçiçeði"," Marmaris ","Merkez",208
+"1538","Piliç Dürüm","Lavaþ arasýnda tavuk þiþ, domates, roka, isteðe göre sumaklý maydanoz & soðan","19,00 TL","Dürümler","Kýrçiçeði"," Marmaris ","Merkez",502
+"1539","Et Döner Dürüm","Lavaþ arasýnda et döner, domates, roka, isteðe göre sumaklý maydanoz & soðan","20,00 TL","Dürümler","Kýrçiçeði"," Marmaris ","Merkez",570
+"1540","Adana Dürüm","Lavaþ arasýnda Adana dürüm, domates, roka, isteðe göre sumaklý maydanoz & soðan","20,00 TL","Dürümler","Kýrçiçeði"," Marmaris ","Merkez",325
+"1541","Falafel Köfte (590 Kcal.)","Nohut köftesi yanýnda yoðurt, tahin ve maydanoz ile hazýrlanan dip sos","27,00 TL","Hafif Lezzetler","Kýrçiçeði"," Marmaris ","Merkez",1
+"1542","Falafel Salata (390 Kcal.)","5 adet falafel köfte, marul, roka, maydanoz, havuç, cherry domates, salatalýk","26,00 TL","Hafif Lezzetler","Kýrçiçeði"," Marmaris ","Merkez",1
+"1543","Kinoa Salata (405 Kcal.)","Kinoa, marul, taze nane, maydanoz, dereotu, domates, salatalýk, kýrmýzý soðan","27,00 TL","Hafif Lezzetler","Kýrçiçeði"," Marmaris ","Merkez",1
+"1544","Tam Tahýllý Salata (533 Kcal.)","Kinoa, bulgur, mercimek, nohut, marul, roka, salatalýk, ceviz, maydanoz, isteðe göre lor peyniri","28,00 TL","Hafif Lezzetler","Kýrçiçeði"," Marmaris ","Merkez",1
+"1545","Çoban Salatasý","Kýrmýzý soðan, salatalýk, domates, çarliston biber, roka, maydanoz","16,00 TL","Salatalar","Kýrçiçeði"," Marmaris ","Merkez",193
+"1546","Mevsim Salata","Iceberg marul, roka, havuç, tane mýsýr, kapari, soya filizi, cherry domates, salatalýk, Meksika fasulyesi, maydanoz, mýsýr koçaný","19,00 TL","Salatalar","Kýrçiçeði"," Marmaris ","Merkez",59
+"1547","Cevizli Kaþýk Salata","Domates, salatalýk, çarliston biber, maydanoz, roka, cherry domates, ceviz, soðan","22,00 TL","Salatalar","Kýrçiçeði"," Marmaris ","Merkez",1
+"1548","Peynirli Ege Salatasý","Domates, salatalýk, roka, cherry domates, havuç, maydanoz, lor peyniri","19,00 TL","Salatalar","Kýrçiçeði"," Marmaris ","Merkez",145
+"1549","Kaþýk Salata","Domates, salatalýk, biber, maydanoz, roka, cherry domates, soðan","19,00 TL","Salatalar","Kýrçiçeði"," Marmaris ","Merkez",1
+"1550","Ton Balýklý Salata","Ton balýðý, kýtýr ekmek, iceberg, roka, maydanoz, havuç, tane mýsýr, Meksika fasulyesi, kapari, soya filizi, mýsýr koçaný, salatalýk, domates, Sezar sos, limon, nar ekþisi, zeytinyaðý","25,00 TL","Salatalar","Kýrçiçeði"," Marmaris ","Merkez",260
+"1551","Tavuklu Salata","Iceberg marul, roka, maydanoz, havuç, tane mýsýr, Meksika fasulyesi, kapari, soya filizi, mýsýr koçaný, cherry domates, salatalýk, Sezar sos, kýtýr ekmek, piliç göðüs eti, limon, nar ekþisi, zeytinyaðý","25,00 TL","Salatalar","Kýrçiçeði"," Marmaris ","Merkez",326
+"1552","Çikolatalý Pide","Kapalý pide içerisinde Nutella, üzerinde pudra þekeri","27,00 TL","Tatlýlar","Kýrçiçeði"," Marmaris ","Merkez",1
+"1553","Katmer","","16,00 TL","Tatlýlar","Kýrçiçeði"," Marmaris ","Merkez",503
+"1554","Sütlaç","","13,00 TL","Tatlýlar","Kýrçiçeði"," Marmaris ","Merkez",268
+"1555","Künefe","","16,00 TL","Tatlýlar","Kýrçiçeði"," Marmaris ","Merkez",426
+"1556","Kabak Tatlýsý","","13,50 TL","Tatlýlar","Kýrçiçeði"," Marmaris ","Merkez",139
+"1557","Tahinli Pide","","25,00 TL","Tatlýlar","Kýrçiçeði"," Marmaris ","Merkez",1
+"1558","Ballý Kaymaklý Cevizli Tahinli Pide","","28,00 TL","Tatlýlar","Kýrçiçeði"," Marmaris ","Merkez",1
+"1559","Kemalpaþa Tatlýsý","","13,00 TL","Tatlýlar","Kýrçiçeði"," Marmaris ","Merkez",476
+"1672","Adana Kebap","Közlenmiþ biber, közlenmiþ domates, pilav, salata ile","28,00 TL"," Kebaplar","Marmaris Kebap"," Marmaris ","Siteler",361
+"1673","Urfa Kebap","Közlenmiþ biber, közlenmiþ domates, pilav, salata ile","28,00 TL"," Kebaplar","Marmaris Kebap"," Marmaris ","Siteler",265
+"1674","Kuzu Ciðer","Közlenmiþ biber, közlenmiþ domates, pilav, salata ile","30,00 TL"," Izgaralar","Marmaris Kebap"," Marmaris ","Siteler",139
+"1675","Karýþýk Izgara","Adana kebap, kuzu ciðer, çöp þiþ, tavuk kanat, tavuk þiþ. Közlenmiþ biber, közlenmiþ domates, pilav, salata ile","45,00 TL"," Izgaralar","Marmaris Kebap"," Marmaris ","Siteler",1
+"1676","Tavuk Þiþ","Közlenmiþ biber, közlenmiþ domates, pilav, salata ile","20,00 TL"," Izgaralar","Marmaris Kebap"," Marmaris ","Siteler",298
+"1677","Tavuk Kanat","Közlenmiþ biber, közlenmiþ domates, pilav, salata ile","22,00 TL"," Izgaralar","Marmaris Kebap"," Marmaris ","Siteler",211
+"1678","Izgara Köfte","Közlenmiþ biber, közlenmiþ domates, pilav, salata ile","28,00 TL"," Izgaralar","Marmaris Kebap"," Marmaris ","Siteler",183
+"1679","Tavuk Þiþ Dürüm","Soðan, domates, maydanoz","13,00 TL","Dürümler","Marmaris Kebap"," Marmaris ","Siteler",349
+"1680","Et Þiþ Dürüm","Soðan, domates, maydanoz","18,00 TL","Dürümler","Marmaris Kebap"," Marmaris ","Siteler",497
+"1681","Köfte Dürüm","Soðan, domates, maydanoz","15,00 TL","Dürümler","Marmaris Kebap"," Marmaris ","Siteler",369
+"1682","Urfa Dürüm","Soðan, domates, maydanoz","15,00 TL","Dürümler","Marmaris Kebap"," Marmaris ","Siteler",335
+"1683","Adana Dürüm","Soðan, domates, maydanoz","15,00 TL","Dürümler","Marmaris Kebap"," Marmaris ","Siteler",325
+"1684","Ciðer Þiþ Dürüm","Soðan, domates, maydanoz","15,00 TL","Dürümler","Marmaris Kebap"," Marmaris ","Siteler",129
+"1685","Patates Kýzartmasý","","12,00 TL","Yan Ürünler","Marmaris Kebap"," Marmaris ","Siteler",250
+"1686","Humus","","12,00 TL","Yan Ürünler","Marmaris Kebap"," Marmaris ","Siteler",339
+"1687","Kuru Cacýk","","10,00 TL","Yan Ürünler","Marmaris Kebap"," Marmaris ","Siteler",1
